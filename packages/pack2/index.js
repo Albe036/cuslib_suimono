@@ -1,5 +1,6 @@
 import { faker } from '@faker-js/faker';
 import { saludar } from '../pack1/index.js';
+import { faker } from '@faker-js/faker';
 
 
 export function generatepack2() {
