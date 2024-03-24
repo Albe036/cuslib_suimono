@@ -1,0 +1,19 @@
+{
+  "name": "cuslib_suimono",
+  "version": "1.0.0",
+  "description": "monorepositorio con suimono",
+  "main": "index.js",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "co": "sui-mono commit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@s-ui/mono": "^2.45.0"
+  }
+}
